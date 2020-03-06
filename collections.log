@@ -1,0 +1,108 @@
+2020-03-06 21:14:49 INFO  collectionMain:17 - Enter your choice:
+1-add
+2-print
+3-remove
+4-fetch
+5-replace
+6-getsize
+7-exit
+2020-03-06 21:15:02 INFO  collectionMain:21 - Enter element to add
+2020-03-06 21:15:07 INFO  collectionMain:17 - Enter your choice:
+1-add
+2-print
+3-remove
+4-fetch
+5-replace
+6-getsize
+7-exit
+2020-03-06 21:15:11 INFO  collectionMain:21 - Enter element to add
+2020-03-06 21:15:13 INFO  collectionMain:17 - Enter your choice:
+1-add
+2-print
+3-remove
+4-fetch
+5-replace
+6-getsize
+7-exit
+2020-03-06 21:15:14 INFO  collectionMain:21 - Enter element to add
+2020-03-06 21:15:15 INFO  collectionMain:17 - Enter your choice:
+1-add
+2-print
+3-remove
+4-fetch
+5-replace
+6-getsize
+7-exit
+2020-03-06 21:15:18 INFO  collectionMain:25 - Displaying the elements:
+2020-03-06 21:15:18 INFO  CustomCollection:61 - 22
+2020-03-06 21:15:18 INFO  CustomCollection:61 - 33
+2020-03-06 21:15:18 INFO  CustomCollection:61 - 44
+2020-03-06 21:15:18 INFO  collectionMain:17 - Enter your choice:
+1-add
+2-print
+3-remove
+4-fetch
+5-replace
+6-getsize
+7-exit
+2020-03-06 21:15:34 INFO  collectionMain:28 - Enter element index to remove
+2020-03-06 21:15:41 INFO  collectionMain:31 - Element removed = 33
+2020-03-06 21:15:41 INFO  collectionMain:17 - Enter your choice:
+1-add
+2-print
+3-remove
+4-fetch
+5-replace
+6-getsize
+7-exit
+2020-03-06 21:15:45 INFO  collectionMain:25 - Displaying the elements:
+2020-03-06 21:15:45 INFO  CustomCollection:61 - 22
+2020-03-06 21:15:45 INFO  CustomCollection:61 - 44
+2020-03-06 21:15:45 INFO  collectionMain:17 - Enter your choice:
+1-add
+2-print
+3-remove
+4-fetch
+5-replace
+6-getsize
+7-exit
+2020-03-06 21:15:55 INFO  collectionMain:33 - Enter element index to fetch
+2020-03-06 21:16:00 INFO  collectionMain:36 - Element fetched:44
+2020-03-06 21:16:00 INFO  collectionMain:17 - Enter your choice:
+1-add
+2-print
+3-remove
+4-fetch
+5-replace
+6-getsize
+7-exit
+2020-03-06 21:16:08 INFO  collectionMain:38 - Enter element and index to be replaced
+2020-03-06 21:16:37 INFO  collectionMain:42 - Element replaced:44
+2020-03-06 21:16:37 INFO  collectionMain:17 - Enter your choice:
+1-add
+2-print
+3-remove
+4-fetch
+5-replace
+6-getsize
+7-exit
+2020-03-06 21:16:42 INFO  collectionMain:25 - Displaying the elements:
+2020-03-06 21:16:42 INFO  CustomCollection:61 - 22
+2020-03-06 21:16:42 INFO  CustomCollection:61 - 55
+2020-03-06 21:16:42 INFO  collectionMain:17 - Enter your choice:
+1-add
+2-print
+3-remove
+4-fetch
+5-replace
+6-getsize
+7-exit
+2020-03-06 21:16:45 INFO  collectionMain:44 - The size of custom list =10
+2020-03-06 21:16:45 INFO  collectionMain:17 - Enter your choice:
+1-add
+2-print
+3-remove
+4-fetch
+5-replace
+6-getsize
+7-exit
